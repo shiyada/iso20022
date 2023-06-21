@@ -16,12 +16,14 @@
 
 .idea
 .vscode/
+.DS_Store
 
 *.exe
 *.test
 *.prof
 
 pkged.go
+gitleaks.tar.gz
 
 coverage.html
 cover.out
